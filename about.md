@@ -1,83 +1,171 @@
 ---
 layout: page
 title: About
-subtitle: "The real work behind the title."
+subtitle: "Data Governance. AI Safety. Built for Africa."
 ---
 
-<div class="about-intro">
-  <img src="/assets/img/avatar.jpg" alt="Christabel Chomba" class="about-photo" />
-  <div class="about-text">
-    <h2>Christabel Chomba</h2>
-    <p class="about-tagline">Data Governance Specialist · AI Safety Advocate · Research Analyst</p>
-    <p><em>BSc. Applied Statistics, Technical University of Kenya<br>
-    MSc. Artificial Intelligence (in progress)</em></p>
+<div class="about-hero">
+  <div class="about-hero-text">
+    <p class="about-headline">Christabel Chomba builds the data infrastructure that organisations rely on — and advocates for the communities that data affects.</p>
   </div>
 </div>
 
 ---
 
-## The Story Behind Mama AI
-
-There's something that happens in a lot of African organisations: the work gets done by one person, at a junior title, with no framework, no roadmap, and no acknowledgement — until something breaks.
-
-I know because I lived it.
-
-From August 2022 to December 2024, I worked at **Autochek Africa** — a continental automotive fintech operating across multiple African markets. My title said *Junior Analyst*. My actual work looked very different.
-
-I drafted the company's **entire data governance framework from the ground up**. We had nothing — no policies, no standards, no documentation. I built it all: data governance policies, privacy policies, data protection frameworks, business intelligence standard operating procedures. I shared these with senior management and led their adoption across the organisation.
-
-I sat in sprint meetings with developers. I validated reports for the BI team. I reviewed newsletters. I led weekly BI meetings. I product-managed data governance tools — **Retool** and **Open Metadata** — end to end: implementation, training, quality assurance.
-
-When the company migrated from **LoanDisk to Fleetzen**, I ran QA. When data moved into **Zoho**, I ran QA again. I built a **global ticketing platform** for data requests across the entire organisation. I researched service downtime solutions. I managed Power BI credentials monthly. I engaged senior management on data requirements. I ensured the BI team had every documented requirement before building a single report — and I personally reviewed each stage of QA before anything went live.
-
-**That was director-level responsibility at a junior analyst's title.**
-
-I'm telling you this not to complain — but because I know how common this story is, especially for African women in technical roles. And because the gap between the title and the work is exactly why I built Mama AI: to bring that level of rigour and dedication to organisations that need it, and to make sure the work is named, valued, and structured properly from the start.
+<div class="stats-row">
+  <div class="stat-item">
+    <span class="stat-number">2+</span>
+    <span class="stat-label">Years building enterprise data governance from the ground up</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">5+</span>
+    <span class="stat-label">African markets served across data governance engagements</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">4</span>
+    <span class="stat-label">Core disciplines: Governance · AI Safety · Privacy · Analytics</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">MSc</span>
+    <span class="stat-label">Artificial Intelligence (in progress)</span>
+  </div>
+</div>
 
 ---
 
-## Now
+## Who I Am
 
-I am currently a **Research Analyst at Royal Media Services** — Kenya's largest media house, home to Citizen TV, Citizen Radio, and a constellation of vernacular stations reaching millions of Kenyans daily.
+**Christabel Chomba** is a Data Governance Specialist, AI Safety Advocate, and Research Analyst based in Nairobi, Kenya.
 
-My work here spans the full research and analytics lifecycle:
+She advises organisations on building data governance frameworks, navigating data privacy compliance, deploying AI responsibly, and measuring impact with rigour. Her clients include major international organisations and some of Kenya's most prominent institutions.
 
-- **Monitoring & Evaluation** of all TV and radio stations — performance tracking, audience research, competitive intelligence
-- **Social media analytics** — tracking RMS platforms and competitors using industry data from **Ipsos** and **GeoPoll**
-- **Client engagement** — meeting with major local and international clients, guiding them on audience performance, crafting proposals
-- **Management reporting** — building analytics reports and **live dashboards** for senior leadership
-- **Data collection surveys** — designing and executing research for audience insights
-- **Live dashboard development** — I built the *Jipange na Viusasa* roadshow monitoring dashboard using **Apache Superset**, providing real-time transaction monitoring during a national campaign
-- **Data protection** — contributing to the organisation's data protection compliance across operations involving major international and domestic clients
+Her academic foundation is a **Bachelor of Technology in Applied Statistics** from the Technical University of Kenya. She is currently completing a **Master of Science in Artificial Intelligence** — applying that technical depth directly to her work in AI safety and ethics.
+
+---
+
+## Professional Experience
+
+<div class="experience-block">
+  <div class="exp-header">
+    <div class="exp-title">
+      <h3>Research Analyst</h3>
+      <p class="exp-org">Royal Media Services — Kenya's largest media organisation</p>
+    </div>
+    <div class="exp-date">2025 — Present</div>
+  </div>
+  <div class="exp-body">
+    <p>Royal Media Services operates Kenya's most-watched television network, Citizen TV, alongside a national portfolio of radio stations broadcasting in English, Kiswahili, and seven vernacular languages. The organisation works with major international clients and Kenya's leading corporates.</p>
+    <ul>
+      <li>Leads monitoring and evaluation across all TV, radio, and digital platforms — tracking performance against industry benchmarks using Ipsos and GeoPoll data</li>
+      <li>Delivers competitive intelligence and audience analytics to senior leadership and external clients</li>
+      <li>Designed and deployed a <strong>live transaction monitoring dashboard</strong> for the Jipange na Viusasa national roadshow using Apache Superset</li>
+      <li>Manages data collection survey design and execution for audience and market research</li>
+      <li>Leads client engagement on performance reporting — advising international and domestic clients on audience data interpretation</li>
+      <li>Contributes to organisational <strong>data protection compliance</strong> across operations handling personal data for major client portfolios</li>
+      <li>Produces management and executive-level analytics reports and proposals</li>
+    </ul>
+  </div>
+</div>
+
+<div class="experience-block">
+  <div class="exp-header">
+    <div class="exp-title">
+      <h3>Data Governance & Business Intelligence Lead</h3>
+      <p class="exp-org">Autochek Africa — Continental Automotive Fintech</p>
+    </div>
+    <div class="exp-date">Aug 2022 — Dec 2024</div>
+  </div>
+  <div class="exp-body">
+    <p>Autochek Africa operates across multiple African markets, providing automotive financing and related financial services. The role carried enterprise-wide data governance responsibility across engineering, business intelligence, audit, product, and senior management functions.</p>
+    <ul>
+      <li>Designed and delivered the organisation's <strong>complete data governance framework from the ground up</strong> — no prior framework existed. This included data governance policies, data privacy policies, data protection policies, and business intelligence standard operating procedures</li>
+      <li>Product-managed enterprise data governance tools — <strong>Retool</strong> and <strong>Open Metadata</strong> — end to end: requirements, implementation, team training, and quality assurance</li>
+      <li>Led quality assurance for the organisation's <strong>system migration from LoanDisk to Fleetzen</strong> and subsequent Zoho data migration</li>
+      <li>Built and managed a <strong>global ticketing platform</strong> for data requests across the entire organisation</li>
+      <li>Chaired weekly business intelligence meetings — reviewing requirements, validating reports, and ensuring QA at every stage before rollout</li>
+      <li>Engaged directly with senior management on data governance policy adoption and strategic data decisions</li>
+      <li>Managed Power BI credential administration and researched platform downtime solutions across the BI stack</li>
+      <li>Reviewed and validated BI team newsletters and ensured full documentation of requirements before any reporting development began</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
 ## Why Mama AI
 
-The name is intentional.
+Africa's data economy is growing faster than its governance infrastructure. Organisations are collecting more data, deploying AI tools, and handling increasingly sensitive personal information — often without the frameworks, policies, or expertise to do so responsibly.
 
-*Mama* in East African culture means authority, protection, and deep care for community. It is a title of respect — not diminishment. A Mama does not just manage; she ensures things are done right, that people are protected, that the next generation inherits something better.
+The communities most exposed to the consequences of poor data governance — rural populations, women, low-income groups, speakers of minority languages — are also the least represented in the rooms where data decisions are made.
 
-Artificial intelligence is arriving in Africa at speed. It is being deployed in healthcare, finance, agriculture, media, and government — often without robust governance, without community consultation, and without consideration for the populations most likely to be harmed by its failures.
+**Mama AI exists to close that gap.** We bring enterprise-grade data governance capability to organisations across Africa, and we advocate — through practice and through policy — for communities whose data rights deserve the same protection as those of any Fortune 500 client.
 
-**I believe that data governance and AI safety are not just technical disciplines. They are acts of care.** They protect the dignity, privacy, and rights of ordinary people — especially those who have historically been excluded from the systems that affect their lives.
-
-Mama AI exists at that intersection: rigorous technical expertise applied with deep community consciousness.
+The name is deliberate. *Mama* in East African culture denotes authority, protection, and accountability. It is a title earned through consistent, serious work — not conferred by a job title.
 
 ---
 
-## Focus Areas
+## Capabilities
 
-- **Data Governance & Policy Frameworks** — building the structures organisations need to manage data as a strategic asset
-- **AI Safety, Ethics & Responsible AI** — ensuring AI deployment serves rather than harms
-- **Data Privacy & Protection** — Kenya Data Protection Act, GDPR, cross-border compliance
-- **Monitoring, Evaluation & Analytics** — impact measurement, dashboard development, research design
+<div class="capabilities-grid">
+  <div class="capability-item">
+    <h4>Data Governance</h4>
+    <p>Framework design, policy development, metadata management, BI governance, tool implementation and training</p>
+  </div>
+  <div class="capability-item">
+    <h4>AI Safety & Ethics</h4>
+    <p>Responsible AI frameworks, impact assessments, ethics policy drafting, AI literacy programmes</p>
+  </div>
+  <div class="capability-item">
+    <h4>Data Privacy & Protection</h4>
+    <p>Kenya DPA compliance, GDPR readiness, DPIA design, privacy policy drafting, staff training</p>
+  </div>
+  <div class="capability-item">
+    <h4>Monitoring & Evaluation</h4>
+    <p>M&E framework design, dashboard development (Apache Superset, Power BI), research design, impact reporting</p>
+  </div>
+  <div class="capability-item">
+    <h4>Business Intelligence</h4>
+    <p>End-to-end BI governance, requirements management, QA, reporting standards, stakeholder engagement</p>
+  </div>
+  <div class="capability-item">
+    <h4>Research & Analytics</h4>
+    <p>Quantitative and qualitative research, competitive intelligence, audience analytics, executive reporting</p>
+  </div>
+</div>
 
 ---
 
-## Let's Connect
+## Credentials
 
-I am based in **Nairobi, Kenya** and work with organisations across Africa and internationally.
+<div class="credentials-row">
+  <div class="credential-item">
+    <span class="cred-icon">🎓</span>
+    <div>
+      <strong>MSc Artificial Intelligence</strong><br>
+      <span>In progress — Technical University of Kenya</span>
+    </div>
+  </div>
+  <div class="credential-item">
+    <span class="cred-icon">🎓</span>
+    <div>
+      <strong>BSc Applied Statistics (Technology)</strong><br>
+      <span>Technical University of Kenya</span>
+    </div>
+  </div>
+  <div class="credential-item">
+    <span class="cred-icon">📍</span>
+    <div>
+      <strong>Based in Nairobi, Kenya</strong><br>
+      <span>Available across Africa and internationally</span>
+    </div>
+  </div>
+</div>
 
-<a href="/contact" class="btn-mama-primary">Get In Touch</a>
-<a href="/services" class="btn-mama-secondary">View Services</a> your questions.
+---
+
+<div class="cta-block">
+  <h2>Work With Mama AI</h2>
+  <p>Engagements begin with a complimentary 45-minute discovery call.</p>
+  <a href="/contact" class="btn-mama-primary">Request a Consultation</a>
+  <a href="/services" class="btn-mama-secondary">View Services</a>
+</div>
