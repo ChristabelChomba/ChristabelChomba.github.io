@@ -1,0 +1,453 @@
+/* ============================================
+   MAMA AI — Custom Styles
+   Palette: Forest Green, Terracotta, Sand, Gold
+   ============================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+3:wght@300;400;600&display=swap');
+
+/* ---- Root Variables ---- */
+:root {
+  --green-deep:    #1B4332;
+  --green-mid:     #2D6A4F;
+  --terracotta:    #C1440E;
+  --terra-light:   #E8714A;
+  --gold:          #D4A017;
+  --sand:          #F5F0E8;
+  --cream:         #FAF8F4;
+  --text-dark:     #2C2C2C;
+  --text-mid:      #555555;
+  --white:         #FFFFFF;
+}
+
+/* ---- Typography ---- */
+body {
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 400;
+  color: var(--text-dark);
+  background-color: var(--cream);
+  font-size: 17px;
+  line-height: 1.75;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 700;
+  color: var(--green-deep);
+  line-height: 1.3;
+}
+
+h1 { font-size: 2.4rem; margin-bottom: 0.5rem; }
+h2 { font-size: 1.85rem; margin-top: 2.5rem; margin-bottom: 1rem; }
+h3 { font-size: 1.4rem; margin-top: 1.8rem; }
+h4 { font-size: 1.15rem; }
+
+p { margin-bottom: 1.1rem; }
+
+a {
+  color: var(--terracotta);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+a:hover { color: var(--green-deep); text-decoration: underline; }
+
+/* ---- Navbar ---- */
+.navbar {
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.82rem;
+}
+
+.navbar-brand {
+  font-family: 'Playfair Display', Georgia, serif !important;
+  font-size: 1.4rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.01em;
+  text-transform: none !important;
+}
+
+/* ---- Hero / Cover ---- */
+.intro-header .page-heading,
+.intro-header .post-heading {
+  text-shadow: 0 2px 12px rgba(0,0,0,0.5);
+}
+
+.intro-header {
+  background-color: var(--green-deep);
+}
+
+/* ---- Buttons ---- */
+.btn-mama-primary,
+.btn-mama-secondary {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  margin: 0.4rem 0.5rem 0.4rem 0;
+  border-radius: 3px;
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  transition: all 0.22s ease;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+
+.btn-mama-primary {
+  background-color: var(--terracotta);
+  color: var(--white) !important;
+  border: 2px solid var(--terracotta);
+}
+.btn-mama-primary:hover {
+  background-color: var(--green-deep);
+  border-color: var(--green-deep);
+  color: var(--white) !important;
+  text-decoration: none !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(27,67,50,0.25);
+}
+
+.btn-mama-secondary {
+  background-color: transparent;
+  color: var(--green-deep) !important;
+  border: 2px solid var(--green-deep);
+}
+.btn-mama-secondary:hover {
+  background-color: var(--green-deep);
+  color: var(--white) !important;
+  text-decoration: none !important;
+  transform: translateY(-1px);
+}
+
+/* ---- Homepage Intro ---- */
+.home-intro {
+  max-width: 780px;
+  margin: 2rem 0 2.5rem 0;
+}
+
+.lead-text {
+  font-size: 1.18rem;
+  line-height: 1.8;
+  color: var(--text-dark);
+  margin-bottom: 1.2rem;
+}
+
+/* ---- Services Grid (Homepage) ---- */
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.service-card {
+  background: var(--white);
+  border: 1px solid #E0DAD0;
+  border-top: 4px solid var(--terracotta);
+  border-radius: 4px;
+  padding: 1.5rem 1.4rem;
+  transition: box-shadow 0.22s ease, transform 0.22s ease;
+}
+.service-card:hover {
+  box-shadow: 0 6px 24px rgba(27,67,50,0.12);
+  transform: translateY(-3px);
+}
+.service-card .service-icon {
+  font-size: 2rem;
+  margin-bottom: 0.7rem;
+  display: block;
+}
+.service-card h3 {
+  font-size: 1.1rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: var(--green-deep);
+}
+.service-card p {
+  font-size: 0.93rem;
+  color: var(--text-mid);
+  line-height: 1.6;
+  margin-bottom: 0.8rem;
+}
+.service-card a {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--terracotta);
+}
+
+/* ---- Clients Row ---- */
+.clients-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 2.5rem;
+  margin: 1.2rem 0 1.5rem 0;
+}
+
+.client-type {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--green-deep);
+  background: var(--sand);
+  padding: 0.45rem 1rem;
+  border-radius: 20px;
+  border: 1px solid #D6CEBC;
+}
+
+.client-type .client-icon {
+  font-size: 1.1rem;
+}
+
+/* ---- About Page ---- */
+.about-intro {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.about-photo {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid var(--terracotta);
+  flex-shrink: 0;
+  box-shadow: 0 4px 16px rgba(193,68,14,0.2);
+}
+
+.about-text h2 {
+  margin-top: 0;
+  font-size: 1.8rem;
+}
+
+.about-tagline {
+  color: var(--terracotta);
+  font-weight: 600;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+/* ---- Services Page ---- */
+.services-intro {
+  background: var(--sand);
+  border-left: 5px solid var(--terracotta);
+  padding: 1.2rem 1.5rem;
+  border-radius: 0 4px 4px 0;
+  margin-bottom: 2rem;
+  font-size: 1.05rem;
+}
+
+.service-detail {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #E0DAD0;
+}
+
+.service-detail:last-of-type {
+  border-bottom: none;
+}
+
+.service-detail h2 {
+  color: var(--green-deep);
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid var(--terracotta);
+  display: inline-block;
+}
+
+.service-detail h3 {
+  font-size: 1.1rem;
+  color: var(--terracotta);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 600;
+  margin-top: 1.5rem;
+}
+
+/* ---- Process Steps ---- */
+.process-steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.process-step {
+  text-align: center;
+  padding: 1.5rem 1rem;
+  background: var(--sand);
+  border-radius: 4px;
+  border: 1px solid #E0DAD0;
+}
+
+.step-number {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--terracotta);
+  line-height: 1;
+  margin-bottom: 0.6rem;
+}
+
+.process-step h4 {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+  color: var(--green-deep);
+}
+
+.process-step p {
+  font-size: 0.9rem;
+  color: var(--text-mid);
+  margin: 0;
+}
+
+/* ---- Speaking Topics Grid ---- */
+.topics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.2rem;
+  margin: 1.5rem 0;
+}
+
+.topic-card {
+  background: var(--white);
+  border: 1px solid #E0DAD0;
+  border-left: 4px solid var(--gold);
+  border-radius: 0 4px 4px 0;
+  padding: 1.2rem 1.3rem;
+}
+
+.topic-card h4 {
+  font-size: 1rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: var(--green-deep);
+}
+
+.topic-card p {
+  font-size: 0.9rem;
+  color: var(--text-mid);
+  margin: 0;
+}
+
+/* ---- Contact Grid ---- */
+.contact-intro {
+  font-size: 1.1rem;
+  max-width: 680px;
+  margin-bottom: 2rem;
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.contact-block {
+  background: var(--sand);
+  padding: 1.4rem;
+  border-radius: 4px;
+  border: 1px solid #E0DAD0;
+}
+
+.contact-block h3 {
+  font-size: 1.1rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.contact-block p {
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+}
+
+/* ---- CTA Block ---- */
+.cta-block {
+  background: var(--green-deep);
+  color: var(--white);
+  padding: 2.5rem 2rem;
+  border-radius: 6px;
+  text-align: center;
+  margin: 3rem 0 1rem 0;
+}
+
+.cta-block h2 {
+  color: var(--white);
+  font-size: 1.8rem;
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+}
+
+.cta-block p {
+  color: #C8D8C8;
+  margin-bottom: 1.5rem;
+  font-size: 1.05rem;
+}
+
+/* ---- Footer ---- */
+.footer-links a,
+footer a {
+  font-weight: 600;
+}
+
+/* ---- Blog Posts ---- */
+.blog-post h1,
+.blog-post h2,
+.blog-post h3 {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+.post-entry {
+  border-bottom: 1px solid #E0DAD0;
+  padding-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* ---- Tags ---- */
+.blog-tags .blog-tag {
+  background: var(--sand);
+  border: 1px solid #D6CEBC;
+  color: var(--green-deep);
+  font-size: 0.8rem;
+  padding: 0.2rem 0.7rem;
+  border-radius: 12px;
+}
+
+/* ---- Blockquote ---- */
+blockquote {
+  border-left: 4px solid var(--terracotta);
+  background: var(--sand);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 4px 4px 0;
+  font-style: italic;
+  color: var(--text-mid);
+}
+
+/* ---- Horizontal Rule ---- */
+hr {
+  border: none;
+  border-top: 2px solid #E0DAD0;
+  margin: 2.5rem 0;
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 768px) {
+  h1 { font-size: 1.9rem; }
+  h2 { font-size: 1.5rem; }
+  .about-intro { flex-direction: column; align-items: center; text-align: center; }
+  .services-grid { grid-template-columns: 1fr; }
+  .process-steps { grid-template-columns: 1fr 1fr; }
+  .topics-grid { grid-template-columns: 1fr; }
+  .clients-row { gap: 0.8rem; }
+  .btn-mama-primary, .btn-mama-secondary { display: block; text-align: center; margin: 0.5rem 0; }
+}
+
+@media (max-width: 480px) {
+  .process-steps { grid-template-columns: 1fr; }
+}
