@@ -14,7 +14,7 @@ subtitle: "Data Governance. AI Safety. Built for Africa."
 
 <div class="stats-row">
   <div class="stat-item">
-    <span class="stat-number">2+</span>
+    <span class="stat-number">4+</span>
     <span class="stat-label">Years building enterprise data governance from the ground up</span>
   </div>
   <div class="stat-item">
@@ -27,7 +27,7 @@ subtitle: "Data Governance. AI Safety. Built for Africa."
   </div>
   <div class="stat-item">
     <span class="stat-number">MSc</span>
-    <span class="stat-label">Artificial Intelligence (in progress)</span>
+    <span class="stat-label">Artificial Intelligence </span>
   </div>
 </div>
 
