@@ -1,6 +1,5 @@
 # Porfolio
 ---
----
 
 <div class="home-intro">
   <div class="intro-statement">
@@ -16,8 +15,8 @@
       From policy design and privacy compliance to research analytics and executive strategy, I help organisations transform data into a strategic asset that drives growth, trust, and measurable impact.
     </p>
 
-  <a href="/services" class="btn-mama-primary">Explore Services</a>
-    <a href="/about" class="btn-mama-secondary">About Me</a>
+    #<a href="/services" class="btn-mama-primary">Explore Services</a>
+  <a href="/about" class="btn-mama-secondary">About Me</a>
   </div>
 </div>
 
