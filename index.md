@@ -1,7 +1,5 @@
-# Home Page (index.md)
+# Porfolio
 ---
-layout: home
-title: Home
 ---
 
 <div class="home-intro">
