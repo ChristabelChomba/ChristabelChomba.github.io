@@ -21,7 +21,7 @@ description: >
 ###############################################
 
 navbar-links:
-  Home: ""
+  ##Home: ""
   About Me: "about"
   Executive Portfolio: "portfolio"
   Case Studies: "case-studies"
