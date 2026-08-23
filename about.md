@@ -1,9 +1,8 @@
 ---
-
 layout: page
 title: About
 subtitle: "Executive Strategy. Business Operations. Artificial Intelligence."
------------------------------------------------------------------------------
+---
 
 <div class="about-hero">
   <div class="about-hero-text">
