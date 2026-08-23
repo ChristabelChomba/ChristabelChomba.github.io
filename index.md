@@ -1,8 +1,8 @@
 --
 
-layout: page
-title: "Christabel Chomba"
-subtitle: "Executive Strategy. Data Governance. Ethical AI in Africa."
+#layout: page
+#title: "Christabel Chomba"
+#subtitle: "Executive Strategy. Data Governance. Ethical AI in Africa."
 ---
 
 <div class="home-intro">
