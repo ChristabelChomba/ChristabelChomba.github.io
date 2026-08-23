@@ -1,123 +1,160 @@
-# Porfolio
+# Fintech Data Leader
 ---
 
 <div class="home-intro">
   <div class="intro-statement">
     <p class="lead-text">
-      Good governance is no longer optional. In an era of AI, automation, and rapidly expanding digital ecosystems, organisations need trusted data, clear accountability, and responsible decision-making frameworks to succeed.
-    </p>
-
-  <p class="lead-text">
-      I'm <strong>Christabel Gacheri Chomba</strong> — a Data Governance Leader, Research Strategist, and AI Governance Advocate helping organisations across Africa build governance frameworks, strengthen data quality, ensure regulatory compliance, and prepare for responsible AI adoption.
+      <strong>Data is the infrastructure behind modern finance.</strong>
     </p>
 
    <p class="lead-text">
-      From policy design and privacy compliance to research analytics and executive strategy, I help organisations transform data into a strategic asset that drives growth, trust, and measurable impact.
+      From digital payments and credit to insurance and AI-powered financial products, the future of fintech will be shaped by organisations that can turn data into trusted, intelligent, and actionable decisions.
     </p>
 
-    #<a href="/services" class="btn-mama-primary">Explore Services</a>
-  <a href="/about" class="btn-mama-secondary">About Me</a>
+   <p class="lead-text">
+      I am a <strong>Data Leader in Fintech</strong> focused on building the data foundations that make financial innovation possible — combining <strong>data governance, analytics, credit, machine learning, artificial intelligence, and digital finance</strong> to help organisations make better decisions at scale.
+    </p>
+
+    <a href="/about" class="btn-mama-secondary">About Me</a>
   </div>
 </div>
 
 ---
 
-## What I Do
+## What I Lead
 
 <div class="services-grid">
 
   <div class="service-card">
-    <div class="service-icon">⚖️</div>
+    <div class="service-icon">🏛️</div>
     <h3>Data Governance & Strategy</h3>
-    <p>Designing governance operating models, policies, standards, stewardship programs, and data quality frameworks that create accountability and business value.</p>
+    <p>Building the governance structures, policies, data quality frameworks, stewardship models, and operating practices that make data trustworthy and usable across financial organisations.</p>
     <a href="/services#governance">Learn More →</a>
   </div>
 
   <div class="service-card">
-    <div class="service-icon">🔒</div>
-    <h3>Data Privacy & Compliance</h3>
-    <p>Supporting organisations in meeting Kenya Data Protection Act requirements, privacy obligations, and cross-border data governance expectations.</p>
-    <a href="/services#privacy">Learn More →</a>
-  </div>
-
-  <div class="service-card">
-    <div class="service-icon">🤖</div>
-    <h3>AI Governance & Responsible AI</h3>
-    <p>Helping organisations establish policies, risk controls, and governance structures for safe, transparent, and ethical AI adoption.</p>
-    <a href="/services#ai">Learn More →</a>
+    <div class="service-icon">💳</div>
+    <h3>Digital Payments & Financial Data</h3>
+    <p>Using transaction and customer data to understand payment ecosystems, improve operations, identify opportunities, manage risk, and build better digital financial products.</p>
+    <a href="/services#payments">Learn More →</a>
   </div>
 
   <div class="service-card">
     <div class="service-icon">📊</div>
-    <h3>Research, Insights & Analytics</h3>
-    <p>Turning complex data into actionable intelligence through audience research, monitoring and evaluation, dashboards, and strategic reporting.</p>
-    <a href="/services#analytics">Learn More →</a>
+    <h3>Credit & Risk Analytics</h3>
+    <p>Turning financial data into stronger credit decisions through credit analytics, portfolio intelligence, customer segmentation, risk modelling, and responsible lending strategies.</p>
+    <a href="/services#credit">Learn More →</a>
+  </div>
+
+  <div class="service-card">
+    <div class="service-icon">🛡️</div>
+    <h3>Insurance & Risk Data</h3>
+    <p>Applying data and analytics to underwriting, claims, customer behaviour, risk assessment, fraud detection, and decision-making across insurance ecosystems.</p>
+    <a href="/services#insurance">Learn More →</a>
+  </div>
+
+  <div class="service-card">
+    <div class="service-icon">🧠</div>
+    <h3>Machine Learning & AI</h3>
+    <p>Applying machine learning and artificial intelligence to financial problems — from predictive modelling and credit scoring to customer intelligence, automation, and decision systems.</p>
+    <a href="/services#ai">Learn More →</a>
+  </div>
+
+  <div class="service-card">
+    <div class="service-icon">⚙️</div>
+    <h3>Data Products & Intelligence</h3>
+    <p>Connecting data engineering, analytics, governance, and business strategy to create reliable data products and intelligence systems that support executive decision-making.</p>
+    <a href="/services#data-products">Learn More →</a>
   </div>
 
 </div>
 
 ---
 
-## Sectors Served
+## The Fintech Data Stack
 
 <div class="clients-row">
+
   <div class="client-type">
-    <span class="client-icon">📡</span>
-    <span>Media & Broadcasting</span>
+    <span class="client-icon">💳</span>
+    <span>Payments</span>
   </div>
 
   <div class="client-type">
-    <span class="client-icon">🚗</span>
-    <span>Fintech & Automotive Finance</span>
+    <span class="client-icon">🏦</span>
+    <span>Credit & Lending</span>
   </div>
 
   <div class="client-type">
-    <span class="client-icon">🏢</span>
-    <span>Corporate Organisations</span>
+    <span class="client-icon">🛡️</span>
+    <span>Insurance</span>
   </div>
 
   <div class="client-type">
-    <span class="client-icon">🌍</span>
-    <span>NGOs & Development Agencies</span>
+    <span class="client-icon">📈</span>
+    <span>Risk & Analytics</span>
+  </div>
+
+  <div class="client-type">
+    <span class="client-icon">🤖</span>
+    <span>Machine Learning & AI</span>
   </div>
 
   <div class="client-type">
     <span class="client-icon">🏛️</span>
-    <span>Government & Regulators</span>
+    <span>Data Governance</span>
   </div>
 
-  <div class="client-type">
-    <span class="client-icon">🎓</span>
-    <span>Research & Academia</span>
-  </div>
 </div>
 
-**Serving clients across Kenya, East Africa, and international markets** through data governance leadership, research excellence, privacy compliance, and AI governance expertise.
+---
+
+## From Data to Financial Intelligence
+
+<p class="lead-text">
+  The strongest fintech organisations don't simply collect more data. They build the capability to <strong>trust it, govern it, understand it, and act on it.</strong>
+</p>
+
+<div class="services-grid">
+
+  <div class="service-card">
+    <h3>01 — Trust the Data</h3>
+    <p>Data quality, governance, lineage, metadata, standards, and controls that create confidence in critical financial data.</p>
+  </div>
+
+  <div class="service-card">
+    <h3>02 — Understand the Data</h3>
+    <p>Analytics, research, dashboards, customer intelligence, and risk insights that turn complex datasets into useful information.</p>
+  </div>
+
+  <div class="service-card">
+    <h3>03 — Predict with Data</h3>
+    <p>Machine learning and predictive analytics that help organisations anticipate risk, behaviour, demand, and opportunity.</p>
+  </div>
+
+  <div class="service-card">
+    <h3>04 — Build with AI</h3>
+    <p>Responsible artificial intelligence that improves financial products and decisions while maintaining appropriate governance and accountability.</p>
+  </div>
+
+</div>
 
 ---
 
-## Professional Highlights
+## Perspective
 
-- 4+ years of experience in Data Governance, Analytics, and Research
-- Led governance initiatives across 8 African markets
-- Implemented enterprise data quality and governance frameworks
-- Built executive dashboards and research systems supporting strategic decisions
-- Experience in media, fintech, public sector, and development environments
-- Advocate for ethical, inclusive, and responsible AI adoption in Africa
+I believe Africa's fintech opportunity is not simply about building more financial products.
 
----
+It is about building **better data infrastructure behind those products.**
 
-## Latest Insights
+Better data can enable more responsible credit.
 
-Recent articles, thought leadership pieces, and research insights will appear here automatically as new content is published.
+Better governance can create more trustworthy financial systems.
 
-<a href="/blog" class="btn-mama-secondary">View All Articles →</a>
+Better analytics can reveal underserved markets.
 
----
+Better machine learning can improve decisions.
 
-## Let's Build Better Data Systems
+And better AI governance can ensure that innovation remains accountable.
 
-Whether you're establishing a data governance framework, strengthening compliance, improving data quality, measuring impact, or preparing your organisation for AI adoption, I can help.
-
-<a href="/contact" class="btn-mama-primary">Get In Touch</a>
 ```
