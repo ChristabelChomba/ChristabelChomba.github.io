@@ -1,25 +1,33 @@
 ###########################################################
-### Mama AI — Data Governance, AI Safety & Ethics
-### Website configuration for Christabel Chomba
+### Christabel Chomba Portfolio
+### Executive Strategy | Business Operations | AI
 ###########################################################
 
 ############################
 # --- Required options --- #
 ############################
 
-title: Mama AI
+title: Christabel Chomba
 author: Christabel Chomba
 
+description: >
+  Executive Strategy, Business Operations, AI & Data Governance Professional
+  with experience driving growth, performance management, executive reporting,
+  and strategic decision-making across fintech, financial services, media,
+  and public sector organisations.
+
 ###############################################
-# --- List of links in the navigation bar --- #
+# --- Navigation --- #
 ###############################################
 
 navbar-links:
   Home: ""
-  About: "about"
-  Services: "services"
-  Insights: "blog"
+  About Me: "about"
+  Executive Portfolio: "portfolio"
+  Case Studies: "case-studies"
+  Strategic Impact: "impact"
   Speaking: "speaking"
+  Insights: "blog"
   Contact: "contact"
 
 ################
@@ -30,18 +38,20 @@ avatar: "/assets/img/avatar.jpg"
 round-avatar: true
 
 #####################################
-# --- Footer social media links --- #
+# --- Social Links --- #
 #####################################
 
 social-network-links:
-  email: "christabel@mamaai.africa"
+  email: "christabelg124@gmail.com"
   linkedin: "christabel-chomba"
-  twitter: "MamaAIAfrica"
   github: marvellabel
-#  instagram: yourname
-#  whatsapp: 254700000000
+  twitter: "ChristaChomba"
+  instagram: "khristaa_behl"
+  whatsapp: "254729686515"
 
-rss-description: "Mama AI — Insights on Data Governance, AI Safety, Ethics, and Data Privacy from Nairobi, Kenya."
+rss-description: >
+  Strategy, Business Operations, Artificial Intelligence,
+  Data Governance and Executive Leadership Insights.
 
 ###########################
 # --- General options --- #
@@ -51,32 +61,45 @@ share-links-active:
   twitter: true
   facebook: false
   linkedin: true
-  vk: false
-  reddit: false
 
-url-pretty: "mamaai.africa"
+url-pretty: "christabelchomba.com"
 
 title-on-all-pages: true
-excerpt_length: 50
+excerpt_length: 60
 feed_show_excerpt: true
 feed_show_tags: true
 post_search: true
 edit_page_button: false
-navbar-var-length: true
 
-keywords: "data governance, AI safety, AI ethics, data privacy, Kenya Data Protection Act, GDPR, monitoring evaluation, Africa, Nairobi"
+keywords: >
+  executive strategy,
+  chief of staff,
+  business operations,
+  fintech,
+  payments,
+  lending,
+  artificial intelligence,
+  data governance,
+  board reporting,
+  investor reporting,
+  executive analytics,
+  business intelligence,
+  kenya,
+  africa
 
 ######################################
-# --- Colours / background image --- #
+# --- Colours --- #
 ######################################
 
 page-col: "#FAF8F4"
 text-col: "#2C2C2C"
 link-col: "#C1440E"
 hover-col: "#1B4332"
+
 navbar-col: "#1B4332"
 navbar-text-col: "#F5F0E8"
 navbar-border-col: "#143326"
+
 footer-col: "#1B4332"
 footer-text-col: "#C8D8C8"
 footer-link-col: "#F5F0E8"
@@ -93,8 +116,10 @@ site-css:
 
 date_format: "%B %-d, %Y"
 timezone: "Africa/Nairobi"
+
 markdown: kramdown
 highlighter: rouge
+
 permalink: /:year-:month-:day-:title/
 paginate: 5
 
@@ -110,6 +135,7 @@ defaults:
       layout: "post"
       comments: false
       social-share: true
+
   -
     scope:
       path: ""
@@ -129,7 +155,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
+  
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
