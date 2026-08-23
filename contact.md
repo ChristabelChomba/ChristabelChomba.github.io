@@ -4,8 +4,18 @@ title: Contact
 subtitle: "Let's talk about your data."
 ---
 
+
 <div class="contact-intro">
-  <p>Whether you're dealing with a data governance gap, a privacy compliance deadline, an AI ethics question, or a measurement challenge — I'd like to hear about it. I respond to all enquiries within 48 hours.</p>
+  <p>
+    Whether you're exploring growth opportunities, improving business performance,
+    building AI capabilities, strengthening data governance, or looking for strategic
+    decision support, I'd be happy to learn more about your goals.
+  </p>
+
+  <p>
+    I work with organisations across fintech, financial services, media, technology,
+    development, and public sector institutions to transform data into measurable business outcomes.
+  </p>
 </div>
 
 ---
@@ -16,47 +26,100 @@ subtitle: "Let's talk about your data."
 
   <div class="contact-block">
     <h3>📧 Email</h3>
-    <p><a href="mailto:christabel@mamaai.africa">christabel@mamaai.africa</a></p>
-    <p>Best for detailed enquiries, project briefs, and speaking requests.</p>
+    <p>
+      <a href="mailto:christabelg124@gmail.com">
+        christabelg124@gmail.com
+      </a>
+    </p>
+    <p>
+      Best for consulting enquiries, strategic projects, executive advisory,
+      speaking engagements, and partnership opportunities.
+    </p>
+  </div>
+
+  <div class="contact-block">
+    <h3>📱 Phone / WhatsApp</h3>
+    <p>
+      <a href="https://wa.me/254729686515">
+        +254 729 686 515
+      </a>
+    </p>
+    <p>
+      Available for consultations, project discussions, and collaboration opportunities.
+    </p>
   </div>
 
   <div class="contact-block">
     <h3>💼 LinkedIn</h3>
-    <p><a href="https://linkedin.com/in/christabel-chomba" target="_blank">linkedin.com/in/christabel-chomba</a></p>
-    <p>Connect professionally and follow for regular insights on data governance and AI ethics.</p>
+    <p>
+      <a href="https://linkedin.com/in/christabel-chomba" target="_blank">
+        linkedin.com/in/christabel-chomba
+      </a>
+    </p>
+    <p>
+      Connect professionally and follow updates on business strategy,
+      artificial intelligence, analytics, and executive operations.
+    </p>
   </div>
 
   <div class="contact-block">
     <h3>📍 Location</h3>
     <p><strong>Nairobi, Kenya</strong></p>
-    <p>Available for in-person engagements across Kenya and East Africa, and virtually worldwide.</p>
+    <p>
+      Available for engagements across Africa and internationally,
+      both remotely and on-site.
+    </p>
   </div>
 
 </div>
 
 ---
 
-## What To Include In Your Message
+## Areas of Interest
 
-To help me respond as helpfully as possible, please tell me:
+I welcome conversations related to:
 
-- **Who you are** — your name, organisation, and role
-- **What you're working on** — the challenge or project you have in mind
-- **Your timeline** — when you need this addressed
-- **Your preferred format** — advisory, training, a framework deliverable, a report, speaking, or something else
-
-The more context you share, the better I can assess whether and how I can help.
+- Executive Strategy & Business Operations
+- Chief of Staff & CEO Office Support
+- Fintech & Digital Financial Services
+- Artificial Intelligence & Analytics
+- Revenue Forecasting & Growth Strategy
+- Business Intelligence & Performance Management
+- Data Governance & Privacy
+- Monitoring, Evaluation & Research
+- Speaking Engagements & Workshops
 
 ---
 
-## Working With Mama AI
+## Before Reaching Out
 
-I work with a small number of clients at a time to ensure quality and genuine engagement. I do not take on more than my capacity allows — which means when we work together, you have my full attention.
+To help me respond effectively, please include:
 
-All engagements begin with a **free 45-minute discovery call** so we can both assess fit before any commitment.
+- Your name and organisation
+- A brief overview of your project or challenge
+- Your objectives and expected outcomes
+- Relevant timelines
+- Any supporting information that may be useful
+
+---
+
+## Let's Build Something Meaningful
+
+I enjoy working with ambitious organisations that are using data,
+technology, and strategy to create measurable impact.
+
+Whether you need strategic insights, executive reporting support,
+AI-driven analytics, governance frameworks, or operational improvements,
+I'd love to explore how I can help.
 
 <div class="cta-block">
-  <h2>Ready to start?</h2>
-  <a href="mailto:christabel@mamaai.africa" class="btn-mama-primary">Send a Message</a>
-  <a href="/services" class="btn-mama-secondary">Review Services First</a>
+  <h2>Let's Start the Conversation</h2>
+
+  <a href="mailto:christabelg124@gmail.com" class="btn-mama-primary">
+    Send an Email
+  </a>
+
+  <a href="https://wa.me/254729686515" class="btn-mama-secondary">
+    WhatsApp Me
+  </a>
 </div>
