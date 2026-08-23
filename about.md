@@ -102,9 +102,9 @@ Key achievements include:
 <div class="exp-header">
 <div class="exp-title">
 
-**Data & Strategic Insights Analyst**
+Data & Strategic Insights Analyst
 
-**Royal Media Services**
+Royal Media Services
 
 </div>
 
@@ -123,9 +123,9 @@ Deliver strategic analytics, audience intelligence, executive reporting, and per
 <div class="exp-header">
 <div class="exp-title">
 
-**Data & Credit Analytics Associate**
+Data & Credit Analytics Associate
 
-**Autochek Africa & Autochek Financial Services**
+Autochek Africa & Autochek Financial Services
 
 </div>
 
@@ -144,9 +144,9 @@ Led enterprise data governance, executive reporting, business intelligence, and 
 <div class="exp-header">
 <div class="exp-title">
 
-**Data Analyst**
+Data Analyst
 
-**National Hospital Insurance Fund (NHIF)**
+National Hospital Insurance Fund (NHIF)
 
 </div>
 
