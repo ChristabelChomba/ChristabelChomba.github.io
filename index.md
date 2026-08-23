@@ -1,4 +1,3 @@
-# Fintech Data Leader
 ---
 
 <div class="home-intro">
