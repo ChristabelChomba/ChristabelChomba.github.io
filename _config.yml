@@ -23,11 +23,11 @@ description: >
 navbar-links:
   ##Home: ""
   About Me: "about"
-  Executive Portfolio: "portfolio"
-  Case Studies: "case-studies"
-  Strategic Impact: "impact"
+  #Executive Portfolio: "portfolio"
+  #Case Studies: "case-studies"
+  #Strategic Impact: "impact"
   Speaking: "speaking"
-  Insights: "blog"
+  #Insights: "blog"
   Contact: "contact"
 
 ################
