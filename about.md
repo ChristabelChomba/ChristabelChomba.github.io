@@ -102,9 +102,9 @@ Key achievements include:
 <div class="exp-header">
 <div class="exp-title">
 
-### Research Analyst
+## Data & Strategic Insights Analyst
 
-Royal Media Services
+## Royal Media Services
 
 </div>
 
@@ -123,7 +123,7 @@ Deliver strategic analytics, audience intelligence, executive reporting, and per
 <div class="exp-header">
 <div class="exp-title">
 
-### Business Intelligence & Data Governance Lead
+### Data & Credit Analytics Associate
 
 Autochek Africa & Autochek Financial Services
 
@@ -242,7 +242,7 @@ Supported healthcare performance reporting, enrolment analytics, claims monitori
 <h2>Let's Build Growth Through Better Decisions</h2>
 
 <p>
-Whether through executive analytics, strategic planning, artificial intelligence, or business operations, I help organisations transform information into action and strategy into measurable outcomes.
+Whether through executive analytics, strategic planning, artificial intelligence, data governance or business operations, I help organisations transform information into action and strategy into measurable outcomes.
 </p>
 
 <a href="/contact" class="btn-mama-primary">Get In Touch</a>
