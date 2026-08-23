@@ -29,42 +29,36 @@
     <div class="service-icon">🏛️</div>
     <h3>Data Governance & Strategy</h3>
     <p>Building the governance structures, policies, data quality frameworks, stewardship models, and operating practices that make data trustworthy and usable across financial organisations.</p>
-    <a href="/services#governance">Learn More →</a>
   </div>
 
   <div class="service-card">
     <div class="service-icon">💳</div>
     <h3>Digital Payments & Financial Data</h3>
     <p>Using transaction and customer data to understand payment ecosystems, improve operations, identify opportunities, manage risk, and build better digital financial products.</p>
-    <a href="/services#payments">Learn More →</a>
   </div>
 
   <div class="service-card">
     <div class="service-icon">📊</div>
     <h3>Credit & Risk Analytics</h3>
     <p>Turning financial data into stronger credit decisions through credit analytics, portfolio intelligence, customer segmentation, risk modelling, and responsible lending strategies.</p>
-    <a href="/services#credit">Learn More →</a>
   </div>
 
   <div class="service-card">
     <div class="service-icon">🛡️</div>
     <h3>Insurance & Risk Data</h3>
     <p>Applying data and analytics to underwriting, claims, customer behaviour, risk assessment, fraud detection, and decision-making across insurance ecosystems.</p>
-    <a href="/services#insurance">Learn More →</a>
   </div>
 
   <div class="service-card">
     <div class="service-icon">🧠</div>
     <h3>Machine Learning & AI</h3>
     <p>Applying machine learning and artificial intelligence to financial problems — from predictive modelling and credit scoring to customer intelligence, automation, and decision systems.</p>
-    <a href="/services#ai">Learn More →</a>
   </div>
 
   <div class="service-card">
     <div class="service-icon">⚙️</div>
     <h3>Data Products & Intelligence</h3>
     <p>Connecting data engineering, analytics, governance, and business strategy to create reliable data products and intelligence systems that support executive decision-making.</p>
-    <a href="/services#data-products">Learn More →</a>
   </div>
 
 </div>
