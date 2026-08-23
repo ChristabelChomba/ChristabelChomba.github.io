@@ -1,9 +1,9 @@
----
+--
 layout: page
-title: "Mama AI"
-subtitle: "Protecting People. Governing Data. Shaping Ethical AI in Africa."
+title: "Christabel Chomba"
+subtitle: "Executive Strategy. Data Governance. Ethical AI in Africa."
 cover-img:
-  - "/assets/img/hero-bg.jpg": "Nairobi, Kenya"
+  - "/assets/img/bgimage.png": "Nairobi, Kenya"
 full-width: false
 ---
 
@@ -13,29 +13,29 @@ full-width: false
       AI is being built fast. Policies are racing to catch up. And the communities who will be most affected — women, rural populations, the marginalised — are the least represented in the room.
     </p>
     <p class="lead-text">
-      <strong>Mama AI</strong> exists to change that. We bring rigorous data governance, grounded AI ethics, and practical privacy frameworks to organisations across Africa — and we advocate for the people who are rarely at the table.
+      I work at the intersection of executive strategy, data governance, and AI ethics — helping organisations across Africa build the policies, frameworks, and evidence infrastructure to make defensible decisions with their data, and advocating for the people who are rarely at the table.
     </p>
     <a href="/services" class="btn-mama-primary">Explore Services</a>
-    <a href="/about" class="btn-mama-secondary">Our Story</a>
+    <a href="/about" class="btn-mama-secondary">My Story</a>
   </div>
 </div>
 
 ---
 
-## What We Do
+## What I Do
 
 <div class="services-grid">
 
   <div class="service-card">
     <div class="service-icon">⚖️</div>
-    <h3>Data Governance & Policy</h3>
+    <h3>Data Governance & Policy Frameworks</h3>
     <p>Building frameworks from the ground up — policies, standards, operating procedures, and the institutional culture to make them stick.</p>
     <a href="/services#governance">Learn more →</a>
   </div>
 
   <div class="service-card">
     <div class="service-icon">🤖</div>
-    <h3>AI Safety & Ethics</h3>
+    <h3>AI Safety, Ethics & Responsible AI</h3>
     <p>Responsible AI deployment strategies for organisations that want to harness AI without causing harm — especially to the communities they serve.</p>
     <a href="/services#ai-safety">Learn more →</a>
   </div>
@@ -49,7 +49,7 @@ full-width: false
 
   <div class="service-card">
     <div class="service-icon">📊</div>
-    <h3>Monitoring, Evaluation & Analytics</h3>
+    <h3>Monitoring, Evaluation & Research Analytics</h3>
     <p>From live dashboards to impact measurement — turning raw data into the evidence that drives better decisions.</p>
     <a href="/services#me">Learn more →</a>
   </div>
@@ -58,9 +58,13 @@ full-width: false
 
 ---
 
-## Who We Work With
+## Who I Work With
 
 <div class="clients-row">
+  <div class="client-type">
+    <span class="client-icon">📡</span>
+    <span>Media & Broadcast</span>
+  </div>
   <div class="client-type">
     <span class="client-icon">🏢</span>
     <span>Corporates & Fintechs</span>
@@ -68,10 +72,6 @@ full-width: false
   <div class="client-type">
     <span class="client-icon">🌍</span>
     <span>NGOs & Civil Society</span>
-  </div>
-  <div class="client-type">
-    <span class="client-icon">📡</span>
-    <span>Media & Broadcast</span>
   </div>
   <div class="client-type">
     <span class="client-icon">🏛️</span>
@@ -83,7 +83,7 @@ full-width: false
   </div>
 </div>
 
-**Operating across Kenya, East Africa, and beyond** — with deep experience serving international clients demanding the highest standards of data governance and privacy compliance.
+**Operating across Kenya, East Africa, and beyond** — with experience serving international clients who demand the highest standards of data governance and privacy compliance.
 
 ---
 
@@ -97,6 +97,6 @@ full-width: false
 
 ## Let's Work Together
 
-Whether you're building a data governance framework from scratch, navigating the Kenya Data Protection Act, or thinking seriously about what responsible AI means for your organisation — we'd like to talk.
+Whether you're building a data governance framework from scratch, navigating the Kenya Data Protection Act, or thinking seriously about what responsible AI means for your organisation — I'd like to talk.
 
 <a href="/contact" class="btn-mama-primary">Get In Touch</a>
