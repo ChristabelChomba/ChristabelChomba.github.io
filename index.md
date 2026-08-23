@@ -1,10 +1,8 @@
 --
+
 layout: page
 title: "Christabel Chomba"
 subtitle: "Executive Strategy. Data Governance. Ethical AI in Africa."
-cover-img:
-  - "/assets/img/bgimage.png": "Nairobi, Kenya"
-full-width: false
 ---
 
 <div class="home-intro">
