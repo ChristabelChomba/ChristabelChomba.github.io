@@ -1,4 +1,8 @@
 ---
+layout: page
+title: Data Leader
+subtitle: "Operations, Infrastructure and Policy"
+---
 
 <div class="home-intro">
   <div class="intro-statement">
