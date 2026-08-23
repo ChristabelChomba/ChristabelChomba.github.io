@@ -15,7 +15,7 @@
       I am a <strong>Data Leader in Fintech</strong> focused on building the data foundations that make financial innovation possible — combining <strong>data governance, analytics, credit, machine learning, artificial intelligence, and digital finance</strong> to help organisations make better decisions at scale.
     </p>
 
-    <a href="/about" class="btn-mama-secondary">About Me</a>
+  <a href="/about" class="btn-mama-secondary">About Me</a>
   </div>
 </div>
 
