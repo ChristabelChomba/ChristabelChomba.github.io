@@ -5,28 +5,52 @@ subtitle: "Practical expertise. Real-world experience. Delivered with integrity.
 ---
 
 <div class="services-intro">
-  <p>Every service Mama AI offers is grounded in hands-on experience — not theory. I have built data governance frameworks from nothing, run cross-border privacy compliance programmes, managed live analytics infrastructure, and engaged senior leadership, auditors, engineers, and regulators. What I bring to your organisation has been tested under real operational pressure.</p>
+  <p>Every service I offer is grounded in hands-on experience — not theory. I have run randomised control trials and implementation research for NGOs and health clients, built a data governance framework from nothing for a continental fintech, run cross-border privacy compliance work, and engaged senior leadership, auditors, engineers, and regulators. What I bring to your organisation has been tested under real operational pressure, not written in a slide deck.</p>
+</div>
+
+---
+
+<div class="service-detail" id="me">
+
+## 📊 Monitoring, Evaluation & Impact Research
+
+**For organisations that need to know whether something actually worked.**
+
+Collecting data is not the hard part. The hard part is knowing whether an intervention was delivered as intended, whether it's worth scaling, and whether the resources behind it were well spent. I've run randomised control trials and implementation research to test interventions for NGOs, health organisations, and businesses; led rapid qualitative research — focus groups, interviews, ethnography — to understand target populations; and built the live dashboards and management reports that turn raw data from industry sources into evidence senior stakeholders can act on.
+
+### What I deliver
+
+- **M&E Framework Design** — measurement frameworks aligned to programme theory and organisational strategy
+- **Randomised Control Trials & Implementation Research** — testing whether interventions are delivered as intended, with fidelity, and with potential for cost-effectiveness
+- **Qualitative & Quantitative Research** — focus groups, interviews, ethnography, segmentation, and survey design
+- **Dashboard Development** — live and interactive dashboards using Power BI, Apache Superset, and other tools
+- **Analytics Reporting** — translating raw data from industry sources (Ipsos, GeoPoll, and others) into accessible management reports
+- **Proposal & Report Writing** — data-driven proposals, briefs, case studies, and papers for clients, donors, and senior leadership
+
+### Who this is for
+NGOs, health organisations, government agencies, media organisations, research organisations, and corporates needing evidence for strategy, accountability, or client engagement.
+
 </div>
 
 ---
 
 <div class="service-detail" id="governance">
 
-## ⚖️ Data Governance & Policy Frameworks
+## ⚖️ Data Governance & Quality Systems
 
 **For organisations that have data but no structure around it.**
 
-Most organisations in Africa are sitting on enormous amounts of data with no governance in place — no policies, no standards, no accountability, no documentation. The result is data that cannot be trusted, decisions that cannot be defended, and compliance risk that is building silently.
+Most organisations across Africa are sitting on enormous amounts of data with no governance in place — no policies, no standards, no accountability, no documentation. The result is data that cannot be trusted, decisions that cannot be defended, and quality issues that surface only after they've already caused damage.
 
-I have been here before. I built a complete data governance framework from scratch for a continental fintech operating across Africa — policies, standards, business intelligence SOPs, metadata management, tool implementation, and senior management adoption. I know what it takes and what it costs to do it wrong.
+I've built a complete data governance framework from scratch for a continental fintech operating across Sub-Saharan Africa — policies, standards, business intelligence SOPs, role-based access design, and end-to-end QA from source system to dashboard. I know what it takes, and what it costs to do it wrong.
 
 ### What I deliver
 
 - **Data Governance Framework Design** — policies, standards, procedures, and roles tailored to your organisation
-- **Data Dictionary & Metadata Management** — tooling selection, implementation, and team training (Open Metadata, Atlan, and others)
 - **BI Governance & Reporting Standards** — end-to-end quality assurance for business intelligence: from requirements through QA to rollout
+- **Data Dictionary & Metadata Management** — tooling selection, implementation, and team training
+- **Role-Based Access & Security Design** — for Power BI and similar reporting platforms
 - **Data Governance Audits** — assessing your current state and building a prioritised roadmap
-- **Policy Drafting** — data governance, data quality, data access, retention, and classification policies
 - **Team Training & Adoption** — workshops and ongoing coaching to embed governance culture
 
 ### Who this is for
@@ -46,7 +70,7 @@ Africa is not waiting for AI. AI is arriving in African healthcare, agriculture,
 
 The communities most likely to be harmed by poorly governed AI are the communities least represented in its design: women, rural populations, the economically marginalised, speakers of minority languages.
 
-I am pursuing a Masters of Science in Artificial Intelligence, and I combine technical grounding with a community-centred advocacy perspective that is rare in the AI governance space.
+I am pursuing a Master of Science in Artificial Intelligence, and I combine technical grounding with a community-centred, evidence-first perspective — the same rigor I bring to evaluating whether any intervention actually works.
 
 ### What I deliver
 
@@ -72,7 +96,7 @@ Any organisation building, procuring, or deploying AI tools — with particular 
 
 Kenya's Data Protection Act (2019) came into force with real teeth. GDPR reaches any organisation touching EU data subjects. Cross-border data flows between African markets are increasingly regulated. The organisations that ignore this are accumulating serious legal, financial, and reputational risk.
 
-I am currently applying data protection principles at Royal Media Services, which works with major international and domestic clients whose data demands the highest standards of care.
+I currently apply data protection principles at Royal Media Services, which works with major international and domestic clients whose data demands the highest standards of care.
 
 ### What I deliver
 
@@ -86,31 +110,6 @@ I am currently applying data protection principles at Royal Media Services, whic
 
 ### Who this is for
 Media organisations, fintechs, health organisations, NGOs, corporates with international operations, and any organisation subject to the Kenya DPA or GDPR.
-
-</div>
-
----
-
-<div class="service-detail" id="me">
-
-## 📊 Monitoring, Evaluation & Research Analytics
-
-**For organisations that need to measure impact and make evidence-based decisions.**
-
-Data collection is not the hard part. The hard part is turning data into evidence, evidence into insight, and insight into decisions that actually improve outcomes. I have built live monitoring dashboards for national campaigns, designed audience research surveys, produced management analytics from industry datasets, and translated complex data into proposals that win clients and inform strategy.
-
-### What I deliver
-
-- **M&E Framework Design** — designing measurement frameworks aligned to programme theory and organisational strategy
-- **Dashboard Development** — live and interactive dashboards using Apache Superset, Power BI, and other tools
-- **Research Design & Survey Management** — quantitative and qualitative research for audience, impact, and market insight
-- **Analytics Reporting** — translating raw data from industry sources (Ipsos, GeoPoll, and others) into accessible management reports
-- **Competitive Intelligence** — systematic monitoring of competitors, sectors, and market trends
-- **Proposal & Report Writing** — data-driven proposals and analytical reports for clients, donors, and senior leadership
-- **Data Collection System Setup** — designing and implementing digital data collection pipelines
-
-### Who this is for
-Media organisations, NGOs, research organisations, government agencies, and corporates needing evidence for strategy, accountability, or client engagement.
 
 </div>
 
