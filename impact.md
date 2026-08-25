@@ -37,47 +37,46 @@ subtitle: "How I think about the work, and what it's added up to so far."
 </div>
 
 ---
-
+</div>
 ## Role-by-Role
 
-<div class="service-detail" id="impact-royal-media">
+ <div class="service-detail" id="impact-royal-media">
 
-📊 Royal Media Services — Evidence for Decisions That Affect Real Programmes
+<h3>Royal Media Services — Evidence for Decisions That Affect Real Programmes</h3>
+<h3>2024 – Present</h3>
 
+<h3>The problem:<h3>
 
-2024 – Present
+<p>NGOs, government agencies, health organisations, and businesses were making decisions about programmes and campaigns — some of which affect entire communities — often without rigorous evidence of whether the underlying intervention was actually working.</p>
 
+</div>
 
-The problem: 
+<h3>What I did:<h3>
 
-NGOs, government agencies, health organisations, and businesses were making decisions about programmes and campaigns — some of which affect entire communities — often without rigorous evidence of whether the underlying intervention was actually working.
-
-
-What I did:
-
-Ran randomised control trials and implementation research to test whether interventions were delivered as intended, with fidelity, and with potential for cost-effectiveness. Led qualitative research (focus groups, interviews, ethnography) and quantitative segmentation to understand the populations these programmes were meant to serve. Built predictive models and produced reports, briefs, and case studies that carried these findings to the people making the actual funding and strategy decisions.
+<p>Ran randomised control trials and implementation research to test whether interventions were delivered as intended, with fidelity, and with potential for cost-effectiveness. Led qualitative research (focus groups, interviews, ethnography) and quantitative segmentation to understand the populations these programmes were meant to serve. Built predictive models and produced reports, briefs, and case studies that carried these findings to the people making the actual funding and strategy decisions.</p>
 
 
-Scale & neglectedness:
+<h3>Scale & neglectedness:</h3>
 
-RCTs and implementation research are resource-intensive and easy to skip in favour of simpler output metrics — which is exactly why skipping them is where a lot of wasted programme spending comes from. This is genuinely under-resourced work relative to how much it should inform decisions.
+<p>RCTs and implementation research are resource-intensive and easy to skip in favour of simpler output metrics — which is exactly why skipping them is where a lot of wasted programme spending comes from. This is genuinely under-resourced work relative to how much it should inform decisions.<p>
 
 
-Counterfactual impact.
+<h3>Counterfactual impact.<h3>
 
-Without this evidence, clients would be deciding whether to continue, scale, or cut a programme based on activity metrics (attendance, reach) rather than whether it changed anything for the people it targeted.
+<p>Without this evidence, clients would be deciding whether to continue, scale, or cut a programme based on activity metrics (attendance, reach) rather than whether it changed anything for the people it targeted.<p>
 
 </div>
 
 <div class="service-detail" id="impact-autochek">
 
-## 🚗 Autochek Africa — The Data Backbone Behind Affordable Car Financing
+<h3>Autochek Africa — The Data Backbone Behind Affordable Car Financing</h3>
+</h3>2022 – 2024</h3>
 
-**2022 – 2024**
+<h3>The problem/h3>
+</p>A Business Intelligence function spanning Sub-Saharan Africa had projects, reports, and data pipelines with no single owner accountable end-to-end — meaning errors could travel from a source system, through a migration, into a dashboard, and into a financing decision without anyone catching them.<p>
 
-**The problem.** A Business Intelligence function spanning Sub-Saharan Africa had projects, reports, and data pipelines with no single owner accountable end-to-end — meaning errors could travel from a source system, through a migration, into a dashboard, and into a financing decision without anyone catching them.
-
-**What I did.** Owned every BI project across the organisation: roadmap, sprint planning, requirements gathering, and end-to-end QA from source system to Power BI. Closed data migration gaps by working directly with analysts, data engineers, and developers across every Sub-Saharan African market Autochek operated in. Built internal tools for loan management, fleet management, and data governance & audit, and authored the BI Standard Operating Procedures and role-based access model the team still works from.
+<h3>What I did</h3>
+</p>Owned every BI project across the organisation: roadmap, sprint planning, requirements gathering, and end-to-end QA from source system to Power BI. Closed data migration gaps by working directly with analysts, data engineers, and developers across every Sub-Saharan African market Autochek operated in. Built internal tools for loan management, fleet management, and data governance & audit, and authored the BI Standard Operating Procedures and role-based access model the team still works from.</p>
 
 **Scale & neglectedness.** This is infrastructure work — governance, QA, SOPs — that doesn't show up in a product demo but is exactly where accuracy either holds or breaks down at scale, across an entire region.
 
