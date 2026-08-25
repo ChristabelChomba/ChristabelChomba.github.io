@@ -389,6 +389,219 @@ a:hover { color: var(--green-deep); text-decoration: underline; }
   font-size: 1.05rem;
 }
 
+/* ---- About Hero (headline statement) ---- */
+.about-hero {
+  margin-bottom: 1.5rem;
+}
+
+.about-headline {
+  font-size: 1.35rem;
+  line-height: 1.7;
+  color: var(--green-deep);
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 600;
+  max-width: 820px;
+}
+
+/* ---- Stats Row (About / Impact) ---- */
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.stat-item {
+  background: var(--white);
+  border: 1px solid #E0DAD0;
+  border-top: 4px solid var(--gold);
+  border-radius: 4px;
+  padding: 1.4rem 1.2rem;
+  text-align: center;
+}
+
+.stat-number {
+  display: block;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 700;
+  font-size: 2rem;
+  color: var(--terracotta);
+  line-height: 1.1;
+  margin-bottom: 0.4rem;
+}
+
+.stat-label {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--text-mid);
+  line-height: 1.4;
+}
+
+/* ---- Experience Blocks (About page timeline) ---- */
+.experience-block {
+  background: var(--white);
+  border: 1px solid #E0DAD0;
+  border-left: 4px solid var(--green-mid);
+  border-radius: 0 4px 4px 0;
+  padding: 1.4rem 1.6rem;
+  margin-bottom: 1.5rem;
+}
+
+.exp-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem 1.5rem;
+  margin-bottom: 0.6rem;
+}
+
+.exp-title {
+  font-weight: 700;
+  color: var(--green-deep);
+  line-height: 1.5;
+}
+
+.exp-title p {
+  margin: 0;
+}
+
+.exp-date {
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--terracotta);
+  white-space: nowrap;
+}
+
+.exp-role-context {
+  font-size: 0.95rem;
+  color: var(--text-mid);
+  margin-bottom: 1rem;
+}
+
+.exp-detail h4 {
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--terracotta);
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 600;
+  margin: 1rem 0 0.4rem 0;
+}
+
+.exp-detail p,
+.exp-detail li {
+  font-size: 0.95rem;
+  color: var(--text-dark);
+}
+
+.exp-detail ul {
+  margin-bottom: 0.6rem;
+}
+
+/* ---- Capabilities Grid (About page) ---- */
+.capabilities-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.3rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.capability-item {
+  background: var(--sand);
+  border: 1px solid #D6CEBC;
+  border-radius: 4px;
+  padding: 1.2rem 1.3rem;
+}
+
+.capability-item h4 {
+  font-size: 1rem;
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  color: var(--green-deep);
+}
+
+.capability-item p {
+  font-size: 0.9rem;
+  color: var(--text-mid);
+  margin: 0;
+}
+
+/* ---- Credentials Row (About page) ---- */
+.credentials-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.3rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.credential-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.8rem;
+  background: var(--white);
+  border: 1px solid #E0DAD0;
+  border-radius: 4px;
+  padding: 1.1rem 1.2rem;
+}
+
+.credential-item .cred-icon {
+  font-size: 1.4rem;
+  flex-shrink: 0;
+  margin-top: 0.1rem;
+}
+
+.credential-item strong {
+  color: var(--green-deep);
+}
+
+.credential-item span {
+  font-size: 0.9rem;
+  color: var(--text-mid);
+}
+
+/* ---- Impact page: framework pillars & honesty callout ---- */
+.impact-framework {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.3rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.impact-pillar {
+  background: var(--white);
+  border: 1px solid #E0DAD0;
+  border-top: 4px solid var(--green-mid);
+  border-radius: 4px;
+  padding: 1.3rem 1.3rem;
+}
+
+.impact-pillar h4 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: var(--green-deep);
+}
+
+.impact-pillar p {
+  font-size: 0.92rem;
+  color: var(--text-mid);
+  margin: 0;
+}
+
+.honesty-note {
+  background: var(--sand);
+  border-left: 5px solid var(--gold);
+  padding: 1.2rem 1.5rem;
+  border-radius: 0 4px 4px 0;
+  margin: 2rem 0;
+}
+
+.honesty-note h3 {
+  margin-top: 0;
+}
+
 /* ---- Footer ---- */
 .footer-links a,
 footer a {
@@ -445,6 +658,11 @@ hr {
   .process-steps { grid-template-columns: 1fr 1fr; }
   .topics-grid { grid-template-columns: 1fr; }
   .clients-row { gap: 0.8rem; }
+  .stats-row { grid-template-columns: 1fr 1fr; }
+  .capabilities-grid { grid-template-columns: 1fr; }
+  .credentials-row { grid-template-columns: 1fr; }
+  .impact-framework { grid-template-columns: 1fr; }
+  .exp-header { flex-direction: column; align-items: flex-start; }
   .btn-mama-primary, .btn-mama-secondary { display: block; text-align: center; margin: 0.5rem 0; }
 }
 
