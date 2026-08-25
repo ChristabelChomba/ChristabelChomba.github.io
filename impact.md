@@ -42,17 +42,30 @@ subtitle: "How I think about the work, and what it's added up to so far."
 
 <div class="service-detail" id="impact-royal-media">
 
-## 📊 Royal Media Services — Evidence for Decisions That Affect Real Programmes
+📊 Royal Media Services — Evidence for Decisions That Affect Real Programmes
 
-**2024 – Present**
 
-**The problem.** NGOs, government agencies, health organisations, and businesses were making decisions about programmes and campaigns — some of which affect entire communities — often without rigorous evidence of whether the underlying intervention was actually working.
+2024 – Present
 
-**What I did.** Ran randomised control trials and implementation research to test whether interventions were delivered as intended, with fidelity, and with potential for cost-effectiveness. Led qualitative research (focus groups, interviews, ethnography) and quantitative segmentation to understand the populations these programmes were meant to serve. Built predictive models and produced reports, briefs, and case studies that carried these findings to the people making the actual funding and strategy decisions.
 
-**Scale & neglectedness.** RCTs and implementation research are resource-intensive and easy to skip in favour of simpler output metrics — which is exactly why skipping them is where a lot of wasted programme spending comes from. This is genuinely under-resourced work relative to how much it should inform decisions.
+The problem: 
 
-**Counterfactual impact.** Without this evidence, clients would be deciding whether to continue, scale, or cut a programme based on activity metrics (attendance, reach) rather than whether it changed anything for the people it targeted.
+NGOs, government agencies, health organisations, and businesses were making decisions about programmes and campaigns — some of which affect entire communities — often without rigorous evidence of whether the underlying intervention was actually working.
+
+
+What I did:
+
+Ran randomised control trials and implementation research to test whether interventions were delivered as intended, with fidelity, and with potential for cost-effectiveness. Led qualitative research (focus groups, interviews, ethnography) and quantitative segmentation to understand the populations these programmes were meant to serve. Built predictive models and produced reports, briefs, and case studies that carried these findings to the people making the actual funding and strategy decisions.
+
+
+Scale & neglectedness:
+
+RCTs and implementation research are resource-intensive and easy to skip in favour of simpler output metrics — which is exactly why skipping them is where a lot of wasted programme spending comes from. This is genuinely under-resourced work relative to how much it should inform decisions.
+
+
+Counterfactual impact.
+
+Without this evidence, clients would be deciding whether to continue, scale, or cut a programme based on activity metrics (attendance, reach) rather than whether it changed anything for the people it targeted.
 
 </div>
 
