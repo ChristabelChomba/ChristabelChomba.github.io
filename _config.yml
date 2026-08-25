@@ -11,10 +11,10 @@ title: Christabel Chomba
 author: Christabel Chomba
 
 description: >
-  Executive Strategy, Business Operations, AI & Data Governance Professional
-  with experience driving growth, performance management, executive reporting,
-  and strategic decision-making across fintech, financial services, media,
-  and public sector organisations.
+  Data & Impact Analyst working across public health insurance, fintech
+  lending, and media & research analytics — building the data governance,
+  business intelligence, impact evaluation, and AI systems that make sure
+  decisions are backed by evidence and reach the people they're meant for.
 
 ###############################################
 # --- Navigation --- #
@@ -23,9 +23,9 @@ description: >
 navbar-links:
   ##Home: ""
   About Me: "about"
+  Impact: "impact"
   #Executive Portfolio: "portfolio"
   #Case Studies: "case-studies"
-  #Strategic Impact: "impact"
   Speaking: "speaking"
   #Insights: "blog"
   Contact: "contact"
@@ -50,8 +50,8 @@ social-network-links:
   whatsapp: "254729686515"
 
 rss-description: >
-  Strategy, Business Operations, Artificial Intelligence,
-  Data Governance and Executive Leadership Insights.
+  Data Governance, Impact Evaluation, Business Intelligence,
+  Artificial Intelligence, and Evidence-Based Decision-Making Insights.
 
 ###########################
 # --- General options --- #
@@ -72,18 +72,18 @@ post_search: true
 edit_page_button: false
 
 keywords: >
-  executive strategy,
-  chief of staff,
-  business operations,
-  fintech,
-  payments,
-  lending,
-  artificial intelligence,
+  data for impact,
+  impact evaluation,
+  monitoring and evaluation,
+  randomised control trials,
   data governance,
-  board reporting,
-  investor reporting,
-  executive analytics,
   business intelligence,
+  fintech,
+  lending,
+  public health data,
+  artificial intelligence,
+  data quality,
+  research analytics,
   kenya,
   africa
 
