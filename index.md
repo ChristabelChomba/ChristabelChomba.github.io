@@ -1,137 +1,128 @@
 ---
 layout: page
-title: Data Leader
-subtitle: "Operations, Infrastructure and Policy"
+title: Data for Impact
+subtitle: "Evidence, systems, and analytics — built so decisions actually reach the people they're meant for."
 ---
 
 <div class="home-intro">
   <div class="intro-statement">
     <p class="lead-text">
-      <strong>Data is the infrastructure behind modern finance.</strong>
+      <strong>Most impact is lost quietly, not dramatically.</strong>
     </p>
 
    <p class="lead-text">
-      From digital payments and credit to insurance and AI-powered financial products, the future of fintech will be shaped by organisations that can turn data into trusted, intelligent, and actionable decisions.
+      A missing record. An un-audited migration. A dashboard nobody QA'd before a lending decision got made off it. An intervention nobody tested before it was scaled to thousands of people. The gap between good intentions and real outcomes is usually a data problem.
     </p>
 
    <p class="lead-text">
-      I am a <strong>Data Leader in Fintech</strong> focused on building the data foundations that make financial innovation possible — combining <strong>data governance, analytics, credit, machine learning, artificial intelligence, and digital finance</strong> to help organisations make better decisions at scale.
+      I'm <strong>Christabel Chomba</strong>, a data and impact analyst working across public health insurance, fintech lending, and media & research — building the data governance, analytics, evaluation, and AI systems that make sure decisions are backed by evidence, and that the people those decisions affect actually get what was promised.
     </p>
 
   <a href="/about" class="btn-mama-secondary">About Me</a>
+  <a href="/impact" class="btn-mama-primary">See the Impact</a>
   </div>
 </div>
 
 ---
 
-## What I Lead
+## What I Do
 
 <div class="services-grid">
 
   <div class="service-card">
-    <div class="service-icon">🏛️</div>
-    <h3>Data Governance & Strategy</h3>
-    <p>Building the governance structures, policies, data quality frameworks, stewardship models, and operating practices that make data trustworthy and usable across financial organisations.</p>
+    <div class="service-icon">🏥</div>
+    <h3>Public Health & Insurance Data</h3>
+    <p>Data entry, cleaning, visualisation, and regional reporting that gives health systems and insurers an accurate picture of coverage — the groundwork behind policy readiness.</p>
   </div>
 
   <div class="service-card">
     <div class="service-icon">💳</div>
-    <h3>Digital Payments & Financial Data</h3>
-    <p>Using transaction and customer data to understand payment ecosystems, improve operations, identify opportunities, manage risk, and build better digital financial products.</p>
+    <h3>Financial Inclusion & Lending Analytics</h3>
+    <p>Business intelligence, data governance, and reporting for fintech and lending businesses — so financing decisions are made on data that's actually been checked.</p>
   </div>
 
   <div class="service-card">
-    <div class="service-icon">📊</div>
-    <h3>Credit & Risk Analytics</h3>
-    <p>Turning financial data into stronger credit decisions through credit analytics, portfolio intelligence, customer segmentation, risk modelling, and responsible lending strategies.</p>
+    <div class="service-icon">🔬</div>
+    <h3>Impact Evaluation & Research</h3>
+    <p>Randomised control trials, implementation research, and quantitative & qualitative methods that tell you whether a programme actually worked — for NGOs, health organisations, government, and businesses.</p>
   </div>
 
   <div class="service-card">
-    <div class="service-icon">🛡️</div>
-    <h3>Insurance & Risk Data</h3>
-    <p>Applying data and analytics to underwriting, claims, customer behaviour, risk assessment, fraud detection, and decision-making across insurance ecosystems.</p>
+    <div class="service-icon">🏛️</div>
+    <h3>Data Governance & Quality Systems</h3>
+    <p>The policies, QA processes, standards, and role-based access controls that make data trustworthy enough to build decisions on — end to end, from source system to dashboard.</p>
   </div>
 
   <div class="service-card">
     <div class="service-icon">🧠</div>
-    <h3>Machine Learning & AI</h3>
-    <p>Applying machine learning and artificial intelligence to financial problems — from predictive modelling and credit scoring to customer intelligence, automation, and decision systems.</p>
+    <h3>Predictive Modelling & AI</h3>
+    <p>SQL modelling, Python, exploratory data analysis, and predictive/prescriptive modelling — plus a community-centred lens on responsible AI deployment.</p>
   </div>
 
   <div class="service-card">
     <div class="service-icon">⚙️</div>
-    <h3>Data Products & Intelligence</h3>
-    <p>Connecting data engineering, analytics, governance, and business strategy to create reliable data products and intelligence systems that support executive decision-making.</p>
+    <h3>Agile BI & Team Leadership</h3>
+    <p>Backlog management, sprint planning, requirements gathering, and cross-functional delivery — running a Business Intelligence team's roadmap end to end.</p>
   </div>
 
 </div>
 
 ---
 
-## The Fintech Data Stack
+## Where I've Worked
 
 <div class="clients-row">
 
   <div class="client-type">
-    <span class="client-icon">💳</span>
-    <span>Payments</span>
+    <span class="client-icon">🏥</span>
+    <span>NHIF — Public Health Insurance</span>
   </div>
 
   <div class="client-type">
-    <span class="client-icon">🏦</span>
-    <span>Credit & Lending</span>
+    <span class="client-icon">🚗</span>
+    <span>Autochek Africa — Fintech, Sub-Saharan Africa</span>
   </div>
 
   <div class="client-type">
-    <span class="client-icon">🛡️</span>
-    <span>Insurance</span>
+    <span class="client-icon">📡</span>
+    <span>Royal Media Services — Media & Research</span>
   </div>
 
   <div class="client-type">
-    <span class="client-icon">📈</span>
-    <span>Risk & Analytics</span>
-  </div>
-
-  <div class="client-type">
-    <span class="client-icon">🤖</span>
-    <span>Machine Learning & AI</span>
-  </div>
-
-  <div class="client-type">
-    <span class="client-icon">🏛️</span>
-    <span>Data Governance</span>
+    <span class="client-icon">🌍</span>
+    <span>Clients: NGOs, Government, Telcos, SMEs</span>
   </div>
 
 </div>
 
 ---
 
-## From Data to Financial Intelligence
+## How I Evaluate Impact
 
 <p class="lead-text">
-  The strongest fintech organisations don't simply collect more data. They build the capability to <strong>trust it, govern it, understand it, and act on it.</strong>
+  I try to hold my own work to the same standard I'd want any intervention held to: not "did something get built," but <strong>did it change an outcome for the people it was meant to reach.</strong>
 </p>
 
 <div class="services-grid">
 
   <div class="service-card">
-    <h3>01 — Trust the Data</h3>
-    <p>Data quality, governance, lineage, metadata, standards, and controls that create confidence in critical financial data.</p>
+    <h3>01 — Scale</h3>
+    <p>How many people, records, or decisions does this actually touch? A national dataset and a single report aren't the same bet.</p>
   </div>
 
   <div class="service-card">
-    <h3>02 — Understand the Data</h3>
-    <p>Analytics, research, dashboards, customer intelligence, and risk insights that turn complex datasets into useful information.</p>
+    <h3>02 — Evidence & Rigor</h3>
+    <p>Is this backed by a randomised trial, a QA process, an audit trail — or by a good story? I try to only claim what the evidence supports.</p>
   </div>
 
   <div class="service-card">
-    <h3>03 — Predict with Data</h3>
-    <p>Machine learning and predictive analytics that help organisations anticipate risk, behaviour, demand, and opportunity.</p>
+    <h3>03 — Neglected Work</h3>
+    <p>Record management, data cleaning, migration QA — unglamorous work almost nobody wants to own, and where most real failures happen.</p>
   </div>
 
   <div class="service-card">
-    <h3>04 — Build with AI</h3>
-    <p>Responsible artificial intelligence that improves financial products and decisions while maintaining appropriate governance and accountability.</p>
+    <h3>04 — Follow-Through</h3>
+    <p>Did the finding change a decision? Did the flagged gap actually get fixed? Delivered isn't the same as finished.</p>
   </div>
 
 </div>
@@ -140,18 +131,18 @@ subtitle: "Operations, Infrastructure and Policy"
 
 ## Perspective
 
-I believe Africa's fintech opportunity is not simply about building more financial products.
+I believe the biggest opportunity in African data work isn't collecting more of it.
 
-It is about building **better data infrastructure behind those products.**
+It's building the **discipline to trust it, govern it, test it, and act on it.**
 
-Better data can enable more responsible credit.
+Better data entry and cleaning can mean a health claim gets processed correctly.
 
-Better governance can create more trustworthy financial systems.
+Better governance and QA can mean a lending decision is fair and accurate.
 
-Better analytics can reveal underserved markets.
+Better evaluation — actual trials, not just dashboards — can mean a programme that isn't working gets fixed or stopped before more resources are spent on it.
 
-Better machine learning can improve decisions.
+Better AI governance can mean the communities least represented in a system's design aren't the first ones harmed by it.
 
-And better AI governance can ensure that innovation remains accountable.
+That's the work I want to keep doing — across whichever sector needs it next.
 
-```
+<a href="/impact" class="btn-mama-primary">Read the Full Impact Breakdown</a>
